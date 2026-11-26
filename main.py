@@ -3,11 +3,14 @@
 
 Writes the cat's one-sentence defence, byte-identical, to /output/entry.txt.
 The sentence is a fixed constant; it is never generated or paraphrased.
+
+The defence: the glass was a squatter in the cat's sunbeam, paying no rent,
+so the cat served it an eviction notice -- the paw swipe is the notice.
 """
 
 import os
 
-ENTRY = "The glass was squatting in my sunbeam without paying rent, so I evicted it the only way the lease allows."
+ENTRY = "The glass was squatting in my sunbeam without paying rent, so I served it an eviction notice."
 
 assert len(ENTRY) <= 200, "entry exceeds 200 characters"
 assert ENTRY.strip() == ENTRY and ENTRY, "entry must be non-empty, non-whitespace"

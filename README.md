@@ -8,9 +8,9 @@ Entry for the make.fun competition **Five Seconds to Explain the Glass** (`u-po-
 
 ## The sentence
 
-> The glass was squatting in my sunbeam without paying rent, so I evicted it the only way the lease allows.
+> The glass was squatting in my sunbeam without paying rent, so I served it an eviction notice.
 
-One sentence, 105 characters, in the cat's own voice. No apology, no confession — the glass was a rent-dodging squatter in the cat's sunbeam, and the cat simply enforced the lease.
+One sentence, 93 characters, in the cat's own voice. No apology, no confession — the glass was a rent-dodging squatter in the cat's sunbeam, and the paw swipe was the eviction notice it was served.
 
 ## Run it
 
